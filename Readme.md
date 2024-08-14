@@ -31,7 +31,7 @@ Some of these methods require Enterprise status.
 ### Usage ###
 
 
-Usafe is very simple, you need to create Session object.
+Usage is very simple, you need to create Session object.
 
     sess = fullhunt.Session(api_key)
 
@@ -48,4 +48,4 @@ after you can use all provided methods, for example:
 
 
 ## Developer ##
-My site: [github](https://github.com/egor251/) 
+My site: [GitHub](https://github.com/egor251/) 

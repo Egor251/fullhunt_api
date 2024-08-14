@@ -1,1 +1,1 @@
-from fullhunt_main import Session
+from .fullhunt_main import Session
